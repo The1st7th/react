@@ -38,7 +38,7 @@ function TicketList(){
         issue={ticket.issue}
         key={index} />
     )}
-    <div>{obj}</div>
+    {/* <div>{obj}</div> */}
   </div>
   );
 }
